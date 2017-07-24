@@ -30,5 +30,5 @@ All my code is documented. I give a brief overview on what my code is doing foll
 
 ### How to Run.
 
-I wrote a one line bash shell script called run.sh, it is run by travis since travis doesn't support prolog. Another hacky approach
-would be :) to use make
+I wrote a one line bash shell script called run.sh to run through travis since travis doesn't support prolog.
+Results can be seen by clicking the travis  build passing link that runs the test offsite.
