@@ -5,5 +5,4 @@ before_script:
   - sudo apt-get update -q
   - sudo apt-get install swi-prolog-nox
 
-script:
-    - exec run.sh
+script: make test
