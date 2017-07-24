@@ -6,4 +6,4 @@ before_script:
   - sudo apt-get install swi-prolog-nox
 
 script:
-    - bash run.sh
+    - exec run.sh
