@@ -1,5 +1,5 @@
 # Jigsaw-Sudoku [![Build Status](https://travis-ci.org/PenguinRage/Jigsaw-Sudoku.svg?branch=master)](https://travis-ci.org/PenguinRage/Jigsaw-Sudoku)
-A prolog jigsaw sudoku solver for any problem given.
+A prolog jigsaw sudoku solver for any given problem.
 
 
 ## COMP3109 Assignment 2
