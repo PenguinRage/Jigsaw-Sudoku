@@ -7,9 +7,6 @@ A prolog jigsaw sudoku solver for any given problem.
 By Ian Cleasby
 --------------
 
-Date: 16/09/2016
-----------------
-
 ### About the code.
 
 Written in Prolog as specifications requested. I placed some test problems based on specifications in first part of my pl. Go past that and you will find Q1, Q2, Q3 all broken out and documented.
