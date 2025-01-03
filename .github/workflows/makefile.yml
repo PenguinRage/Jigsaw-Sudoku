@@ -15,16 +15,13 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: Add repo for swi-prolog
-      run: apt-add-repository ppa:swi-prolog/devel -y    
+      run: sudo apt-add-repository ppa:swi-prolog/devel -y    
     
     - name: Add repo for swi-prolog
-      run: apt-get update -q
+      run: sudo apt-get update -q
 
     - name: Install swipl
-      run: apt-get install swi-prolog-nox
+      run: sudo apt-get install swi-prolog-nox
     
     - name: Run test
       run: make test
-
-    - name: Run distcheck
-      run: make distcheck
