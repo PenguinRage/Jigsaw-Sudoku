@@ -1,4 +1,4 @@
-# Jigsaw-Sudoku 
+# Jigsaw-Sudoku  [![Makefile CI](https://github.com/PenguinRage/Jigsaw-Sudoku/actions/workflows/makefile.yml/badge.svg)](https://github.com/PenguinRage/Jigsaw-Sudoku/actions/workflows/makefile.yml)
 A prolog jigsaw sudoku solver for any given problem.
 
 
